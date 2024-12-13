@@ -136,13 +136,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraaAbdelghany9&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 
-<br>
-
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsraaAbdelghany9&theme=radical" alt="Commits"/>
-</div>
-
 ---
 
 ## 🚀 Let's Collaborate!
