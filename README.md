@@ -1,7 +1,7 @@
 # Hello, I'm **Israa Abdelghany** 👋
 
 <div align=center>
-   <img src="https://readme-typing-svg.herokuapp.com?color=%23FF69B4&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello+Everyone+%F0%9F%8E%89;My+name+is+Israa+Abdelghany;+Robotics+and+AI+Software+Engineer;+Passionate+About+Robotics+and+AI" alt="Headline" />
+   <img src="https://readme-typing-svg.herokuapp.com?color=%23FF69B4&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello+Everyone+%F0%9F%8E%89;My+name+is+Israa+Abdelghany;+Robotics_AI+Software+Engineer;+Passionate+About+:;+Robotics+,+AI+Apps+and+Research" alt="Headline" />
 </div>
 
 <div align="center">
