@@ -59,7 +59,10 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-003B57?style=flat&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=flat&logo=seaborn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
 </div>
 
 ### Control Systems:
@@ -115,18 +118,9 @@
 
 ## 🧑‍🏫 My Learning Journey:
 
-![Learning Journey](https://img.shields.io/badge/Robotics%20Learning%20Progress-45%25-blue)
-![Learning Journey](https://img.shields.io/badge/AI%20%26%20Machine%20Learning%20Learning%20Progress-25%25-orange)
-![Learning Journey](https://img.shields.io/badge/Control%20Systems%20Learning%20Progress-40%25-green)
-
----
-
-### 🎉 Fun & Interactive Features:
-
-<details>
-  <summary>🎮 Click here for a fun surprise!</summary>
-  <p>Explore my machine learning models and projects that I've created in my free time! 💻</p>
-</details>
+![Learning Journey](https://img.shields.io/badge/Robotics%20Learning%20Progress-70%25-blue)
+![Learning Journey](https://img.shields.io/badge/AI%20%26%20Machine%20Learning%20Learning%20Progress-75%25-orange)
+![Learning Journey](https://img.shields.io/badge/Control%20Systems%20Learning%20Progress-60%25-green)
 
 ---
 
