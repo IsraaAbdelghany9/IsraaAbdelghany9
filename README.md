@@ -63,7 +63,22 @@
   <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=flat&logo=seaborn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white"/>
+
+
+   
 </div>
+
+### Computer Vision:
+<div align="center">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+</div>
+
+### NLP:
+<div align="center">
+   <img src="https://img.shields.io/badge/NLTK-9FBC50?style=flat&logo=nltk&logoColor=white"/>
+</div>
+
 
 ### Control Systems:
 <div align="center">
