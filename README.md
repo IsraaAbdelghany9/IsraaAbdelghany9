@@ -11,19 +11,21 @@
 ![Follow me](https://img.shields.io/badge/Follow%20me-brightpink?style=social&logo=github)
 
 
-**Dynamic and motivated Mechatronics Engineer**, ranked **1st in my department**, with a passion for **Robotics**, **Autonomous Systems**, **AI & ML Integration** , and **Computer Vision**. I bring a strong foundation in **MATLAB**, **SolidWorks**,**C** ,**C++**, **Python**, **ROS1**,and **ROS2**, coupled with hands-on experience in designing and developing autonomous robotic systems. Currently, I am pursuing the **AI & Machine Learning track** in the **ITI 9-month scholarship**, driven by a deep passion for **AI**, **Machine Learning**, **Deep Learning**, and their integration into robotics and control systems.
-
-✨ *Driven by curiosity, fueled by creativity, and committed to continuous learning.* ✨
+**Dynamic and motivated Mechatronics Engineer**, ranked **1st in my department**,I’m currently pursuing the ITI 9-month AI & ML track, where I’m gaining hands-on experience in machine learning, deep learning with TensorFlow and Keras, and working on real-world applications in computer vision, natural language processing, and time series forecasting. I also have experience in robotics, ROS2, control systems, fuzzy logic, and Gazebo simulation. Passionate about learning and applying AI to solve real-world problems.
 
 ---
 
 ## 🚀 What I'm Currently Up To:
 
-- **AI & ML Trainee** at **ITI** _(9-month scholarship)_.
-- Exploring advanced topics in **Deep Learning**, **Natural Language Processing**, and **Computer Vision**.
-- Migrating robotic systems from **ROS2-Foxy** to **ROS2-Humble**.
-- Developing and documenting **robotics projects** for my GitHub repository: *Robotics Journey*.
-- Building an Arduino project with self-designed circuits.
+- AI & ML Trainee at ITI (9-month scholarship), focusing on real-world projects in machine learning, deep learning, NLP, and computer vision using TensorFlow and Keras.
+
+- Migrating robotic systems from ROS1-Neutic to ROS2-Humble.
+
+- Creating and documenting hands-on robotics projects in my GitHub repo: Robotics Journey.
+
+- Designing and building a custom Arduino project with self-made circuits.
+
+
 
 <div align="center">
   <img src="https://github.com/IsraaAbdelghany/IsraaAbdelghany/assets/currently-working-on.gif" alt="Currently Working On" width="600"/>
