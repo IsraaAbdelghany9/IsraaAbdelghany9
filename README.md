@@ -33,17 +33,15 @@
 
 ---
 
-## 🌱 Learning New Skills:
+## 🌍 Find Me As a Freelancer:
 
-- Advanced **Robotics** and **Mechatronics** systems.
-- **Machine Learning** for robotics applications.
-- **Deep Learning** frameworks like TensorFlow and PyTorch.
-- **Fuzzy Logic** and **Control Systems Design**.
-- Enhanced expertise in **Gazebo Simulation** and **ROS2**.
+I'm available for freelance work in:
 
-<div align="center">
-  <img src="https://github.com/IsraaAbdelghany/IsraaAbdelghany/assets/learning-path.gif" alt="Learning Path" width="600"/>
-</div>
+📌 **Freelancer Profiles:**  
+
+- [Khamsat](https://khamsat.com/user/israa_abdelghany)  
+- [Upwork](https://www.upwork.com/freelancers/~01d19d8488b29a086f)  
+- [Mostaql](https://mostaql.com/u/IsraaAbdelghany)  
 
 ---
 
