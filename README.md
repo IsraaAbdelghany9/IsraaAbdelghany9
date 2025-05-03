@@ -113,7 +113,6 @@ I'm available for freelance work in:
 ## 🏆 Achievements:
 
 - 🎓 Ranked **1st in the Mechatronics Department** at MUST in 2024.
-- 🌟 Recipient of **ITI's 9-month AI & Machine Learning Scholarship**, specializing in advanced topics like **Deep Learning**, **NLP**, and **Computer Vision**.
 
 ---
 
