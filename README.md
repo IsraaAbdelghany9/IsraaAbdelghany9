@@ -43,6 +43,7 @@ I'm available for freelance work in:
 - [Upwork](https://www.upwork.com/freelancers/~01d19d8488b29a086f)  
 - [Mostaql](https://mostaql.com/u/IsraaAbdelghany)  
 
+LinkedIn in BIO
 ---
 
 ## 💻 My Tech Stack:
