@@ -11,7 +11,7 @@
 ![Follow me](https://img.shields.io/badge/Follow%20me-brightpink?style=social&logo=github)
 
 
-**Dynamic and motivated Mechatronics Engineer**, ranked **1st in my department**,I’m currently pursuing the ITI 9-month AI & ML track, where I’m gaining hands-on experience in machine learning, deep learning with TensorFlow and Keras, and working on real-world applications in computer vision, natural language processing, and time series forecasting. I also have experience in robotics, ROS2, control systems, fuzzy logic, and Gazebo simulation. Passionate about learning and applying AI to solve real-world problems.
+**Dynamic and motivated AI and ML Engineer**, Graduated from Mechatronics Engineering department MUST university ranked **1st in my department**,I’m currently pursuing the ITI 9-month AI & ML track, where I’m gaining hands-on experience in machine learning, deep learning with TensorFlow and Keras, and working on real-world applications in computer vision, natural language processing, time series forecasting, LLMs and GenAI. I also have experience in robotics, ROS2, control systems, fuzzy logic, and Gazebo simulation. Passionate about learning and applying AI to solve real-world problems.
 
 ---
 
